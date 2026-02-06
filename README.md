@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ayrtonsenka/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [2239-find-closest-number-to-zero](https://github.com/ayrtonsenka/leetcode/tree/master/2239-find-closest-number-to-zero) |
 <!---LeetCode Topics End-->
