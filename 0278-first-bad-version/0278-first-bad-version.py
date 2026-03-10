@@ -5,8 +5,7 @@
 
 class Solution(object):
     def firstBadVersion(self, n):
-        l = 1
-        r = n
+        l, r = 1, n 
 
         while l<r:
             m = (l+r)//2
