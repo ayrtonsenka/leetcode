@@ -5,7 +5,7 @@
 
 class Solution(object):
     def firstBadVersion(self, n):
-        l, r = 1, n 
+        l, r = 1, n #sa ovim je brze 8ms nego u 2 reda
 
         while l<r:
             m = (l+r)//2
